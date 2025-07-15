@@ -416,14 +416,6 @@ footer .logo {
 
 /* responsive design */
 @media(max-width:660px) {
-    h1 {
-        height: 40px;
-    }
-    
-    header img {
-        height: 40px;
-        width: auto;
-    }
 
     header nav ul {
         display: block;
